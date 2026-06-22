@@ -20,7 +20,7 @@ You will need to flash the .uf2 provided in the Firmware folder in this repo to 
 After this, drag the files in the circuitpy folder provided in this repo into the CIRCUITPY drive that shows up after flashing circuitpython to the microcontroller. Do this as you would a flash drive.
 
 # Assemble
-To make it, you will need:
+Bill Of Materials (BOM):
 
 1x XIAO RP2040
 
