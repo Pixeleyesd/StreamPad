@@ -23,7 +23,7 @@ title = label.Label(
     color=0xFFFFFF,
     scale=2,        # big but wont clip (9 chars * 6px * 2 = 108px wide, fits in 128)
     x=10,
-    y=22,
+    y=10,
 )
 
 sub = label.Label(
@@ -32,7 +32,7 @@ sub = label.Label(
     color=0xFFFFFF,
     scale=1,        # 17 chars * 6px = 102px wide, fits fine
     x=13,
-    y=48,
+    y=24,
 )
 
 splash.append(title)
