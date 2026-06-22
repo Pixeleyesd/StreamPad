@@ -12,7 +12,7 @@ The macropad is assembled by pressing heat-set inserts into the back of the top 
 # Firmware
 To be completed.
 
-# Build
+# Assemble
 To make it, you will need:
 1x XIAO RP2040
 16x Cherry MX Switches
