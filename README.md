@@ -1,6 +1,3 @@
-# NOTE
-I need to restructure my repo for it to be a valid submission.
-
 # StreamPad
 The StreamPad is an open source hackpad made for macros (designed for streaming). It has 16 keys (4x4) and an OLED screen.
 
