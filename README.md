@@ -41,17 +41,11 @@ Bill Of Materials (BOM):
 
 1x 0.91" 128x32 OLED Display
 
-1x 3D printed case
+My 3D printed case (Top & Bottom)
 
-4x Cables (Female)
+My PCB design. (I'm planning to use JLCPCB for the custom assembly of it)
 
-1x Hot glue gun
-
-recommended wire strippers
-
-HIGHLY RECOMMENDED to also get my PCB design. (I'm planning to use JLCPCB for the custom assembly of it)
-
-You will need to solder wires from XIAO to OLED: 
+You will also need to solder wires from XIAO to OLED. The wires will be self-provided: 
 
 GND -> GND
 
