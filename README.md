@@ -37,7 +37,7 @@ D4 -> SDA
 
 D5 -> SCL
 
-You will then need to hot glue the OLED onto the top half of the case, and it is recommended to glue the PCB to the bottom half, but is not required.
+You will then need to hot glue the OLED onto the top half of the case, and it is recommended to glue the PCB to the bottom half to prevent minor movements of the PCB in the case if this is an issue for you, but is not required.
 
 ---
 
