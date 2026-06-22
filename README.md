@@ -28,11 +28,13 @@ recommended wire strippers
 HIGHLY RECOMMENDED to also get my PCB design. (I used JLCPCB for the making process)
 
 You will need to solder wires from: 
-XIAO:  OLED:
 
 GND -> GND
+
 3v3 -> VCC
+
 D4 -> SDA
+
 D5 -> SCL
 
 You will then need to hot glue the OLED onto the top half of the case, and it is recommended to glue the PCB to the bottom half, but is not required.
