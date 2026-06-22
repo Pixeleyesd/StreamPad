@@ -3,11 +3,13 @@ I need to restructure my repo for it to be a valid submission.
 
 # StreamPad
 The StreamPad is an open source hackpad made for macros (designed for streaming). It has 16 keys (4x4) and an OLED screen.
-![design1](pictures/completeddesign1.png)
-![design2](pictures/completeddesign2.png)
+
+![design1](pictures/completedesign1.png)
+![design2](pictures/completedesign2.png)
 
 # PCB
 Designed with KiCad.
+
 ![schematic](pictures/schematic.png)
 ![pcb](pictures/pcb.png)
 
@@ -15,6 +17,7 @@ Designed with KiCad.
 Designed with fusion 360.
 
 The macropad is assembled by pressing heat-set inserts into the back of the top plate. Then, 16mm screws are inserted through the bottom of the base and the PCB, threading directly into the inserts to hold everything together.
+
 ![case](pictures/case.png)
 
 # Firmware
