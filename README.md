@@ -14,18 +14,30 @@ To be completed.
 
 # Assemble
 To make it, you will need:
+
 1x XIAO RP2040
+
 16x Cherry MX Switches
+
 16x DSA Keycaps
+
 4x M3x5x4 Heatset inserts
+
 4x M3x16mm screws
+
 16x 1N4148 DO-35 Diodes (included in PCB design)
+
 1x 0.91" 128x32 OLED Display
+
 1x 3D printed case
+
 4x Cables (Female)
+
 1x Hot glue gun
+
 recommended wire strippers
-HIGHLY RECOMMENDED to also get my PCB design. (I used JLCPCB for the making process)
+
+HIGHLY RECOMMENDED to also get my PCB design. (I'm planning to use JLCPCB for the custom assembly of it)
 
 You will need to solder wires from: 
 
