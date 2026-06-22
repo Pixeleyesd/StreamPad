@@ -7,6 +7,7 @@ The StreamPad is an open source hackpad made for macros (designed for streaming)
 # PCB
 Designed with KiCad.
 
+![design](pictures/design.png)
 ![schematic](pictures/schematic.png)
 ![pcb](pictures/pcb.png)
 
