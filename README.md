@@ -43,7 +43,7 @@ recommended wire strippers
 
 HIGHLY RECOMMENDED to also get my PCB design. (I'm planning to use JLCPCB for the custom assembly of it)
 
-You will need to solder wires from: 
+You will need to solder wires from XIAO to OLED: 
 
 GND -> GND
 
