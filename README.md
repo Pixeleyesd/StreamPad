@@ -3,14 +3,19 @@ I need to restructure my repo for it to be a valid submission.
 
 # StreamPad
 The StreamPad is an open source hackpad made for macros (designed for streaming). It has 16 keys (4x4) and an OLED screen.
+![design1](pictures/completeddesign1.png)
+![design2](pictures/completeddesign2.png)
 
 # PCB
 Designed with KiCad.
+![schematic](pictures/schematic.png)
+![pcb](pictures/pcb.png)
 
 # Case
 Designed with fusion 360.
 
 The macropad is assembled by pressing heat-set inserts into the back of the top plate. Then, 16mm screws are inserted through the bottom of the base and the PCB, threading directly into the inserts to hold everything together.
+![case](pictures/case.png)
 
 # Firmware
 The firmware is written in KMK.
@@ -56,7 +61,7 @@ D4 -> SDA
 
 D5 -> SCL
 
-You will then need to hot glue the OLED onto the top half of the case, and it is recommended to glue the PCB to the bottom half to prevent minor movements of the PCB in the case if this is an issue for you, but is not required.
+You will then need to attach the OLED onto the top half of the case.
 
 ---
 
