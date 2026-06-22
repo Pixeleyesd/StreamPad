@@ -25,7 +25,7 @@ To make it, you will need:
 
 4x M3x16mm screws
 
-16x 1N4148 DO-35 Diodes (included in PCB design)
+16x 1N4148 DO-35 Diodes
 
 1x 0.91" 128x32 OLED Display
 
