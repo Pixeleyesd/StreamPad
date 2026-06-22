@@ -10,7 +10,11 @@ Designed with fusion 360.
 The macropad is assembled by pressing heat-set inserts into the back of the top plate. Then, 16mm screws are inserted through the bottom of the base and the PCB, threading directly into the inserts to hold everything together.
 
 # Firmware
-To be completed.
+The firmware is written in KMK.
+
+You will need to flash the .uf2 provided in this repo to the Seeeduino XIAO. (Refer to help here: https://wiki.seeedstudio.com/XIAO-RP2040-with-CircuitPython/)
+
+After this, drag the files in the circuitpy folder provided in this repo into the CIRCUITPY drive that shows up after flashing circuitpython to the microcontroller. Do this as you would a flash drive.
 
 # Assemble
 To make it, you will need:
